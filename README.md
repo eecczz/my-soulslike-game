@@ -1,7 +1,13 @@
 # My Soulslike Game
 
-Prototype repository for a Soulslike-style game project.
+## 프로젝트 개요
 
-## Notes
+Soulslike 스타일의 전투와 레벨 구성을 실험하기 위한 Unity 게임 프로토타입 저장소입니다. 플레이어 조작, 전투 흐름, 맵 구성, 게임 플레이 감각을 검증하는 데 초점을 둔 프로젝트입니다.
 
-This repository is currently a lightweight project placeholder. Add gameplay footage, screenshots, controls, engine version, and setup instructions once the source is ready to share.
+## 정리 예정 항목
+
+- Unity 버전과 실행 방법
+- 플레이어 조작 방식
+- 전투 시스템 구현 범위
+- 레벨/맵 구성
+- 시연 영상 또는 스크린샷
